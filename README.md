@@ -2,7 +2,7 @@
 ![image](https://github.com/monnani-girl/.github/assets/18053479/606dc5d7-7d67-4d27-8edb-ce459fac121e)
 <br/>
 
-## 🥕 두루미 서비스 바로가기
+## ⭐ 두루미 서비스 바로가기
 나만의 친절하고 귀여운 디지털 비서 
 [**✨ 두루미 챗봇 ✨**](http://pf.kakao.com/_iExmxoxj)에서 나와 닮은 농산물 캐릭터를 찾고 제주 못난이 농산품을 만나보세요!   
 👉🏻 **서비스 URL** : **http://pf.kakao.com/_iExmxoxj**   
